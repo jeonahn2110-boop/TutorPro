@@ -1,0 +1,6 @@
+{
+  "name": "TutorPro AI",
+  "description": "Ứng dụng web quản lý học sinh, lịch dạy thời gian thực, học phí tự động, lớp học trực tuyến và trình soạn đề thi AI chuẩn A4 dành cho gia sư.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
